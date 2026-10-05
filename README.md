@@ -23,4 +23,4 @@ Computer Engineering student at Politecnico di Torino.
 
 - arman.naserfar@gmail.com
 - arman.naserfar@yahoo.com
-- linkedin: linkedin.com/in/arman-naseri-far-5773b3341
+- linkedin.com/in/arman-naseri-far-5773b3341
