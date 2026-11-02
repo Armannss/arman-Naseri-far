@@ -1,7 +1,9 @@
-# Hi, I'm Arman 👋
+# Hi, I'm Arman
 
 Developer working on **AI agents** and **full-stack web applications**.
 Computer Engineering student at Politecnico di Torino.
+
+**Portfolio:** https://armannss.github.io/portfolio/
 
 ## What I do
 
@@ -11,6 +13,11 @@ Computer Engineering student at Politecnico di Torino.
 
 ## Projects
 
+- **[NEXTRIBE](https://armannss.github.io/portfolio/#nextribe)** —
+  a Persian personal-growth web app with daily missions, planning and a group
+  leaderboard ([visit the website](https://nextribe.app/welcome))
+- **[armap](https://github.com/Armannss/armap)** —
+  an open-source Claude Code plugin that gives AI agents a ranked map of a codebase
 - **[Parsilon Part](https://github.com/Armannss/Parsilon-web-application-mobile-shell)** —
   online auto-parts shop with an AI agent that finds the right part for a
   customer's car (Next.js, Prisma, PostgreSQL, Claude API tool use)
